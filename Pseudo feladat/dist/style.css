@@ -1,0 +1,25 @@
+
+.container{
+    width: 200px;
+    text-align: center;
+    
+    
+}
+.Elso{
+    border: black solid 2px;
+}
+.masodik{
+    border: black solid 2px;
+}
+.harmadik{
+    border: black solid 2px;
+}
+.Elso:hover{
+    background-color:red;
+}
+.harmadik:hover{
+    background-color:red;
+}
+.masodik:hover{
+    background-color:red;
+}
